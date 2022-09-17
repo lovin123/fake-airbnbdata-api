@@ -1,0 +1,74 @@
+[
+
+    {
+        "img": "https://links.papareact.com/xqj",
+        "Location": "Private room in center of London",
+        "title": "Stay at this spacious Edwardian House",
+        "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star": 4.73,
+        "price": "£39 / night",
+        "total": "£152 total",
+        "long": -0.0022275,
+        "lat": 51.5421655
+    },
+
+    {
+        "img": "https://links.papareact.com/hz2",
+        "Location": "Private room in center of London",
+        "title": "Independent luxury apartment",
+        "description": "2 guest · 3 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Kitchen",
+        "star": 4.3,
+        "price": "£40 / night",
+        "total": "£157 total",
+        "long": -0.095091,
+        "lat": 51.48695
+    },
+
+    {
+        "img": "https://links.papareact.com/uz7",
+        "Location": "Private room in center of London",
+        "title": "London Studio Apartments",
+        "description": "4 guest · 4 bedroom · 4 bed · 2 bathrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star": 3.8,
+        "price": "£35 / night",
+        "total": "£207 total",
+        "long": -0.135638,
+        "lat": 51.521916
+    },
+
+    {
+        "img": "https://links.papareact.com/6as",
+        "Location": "Private room in center of London",
+        "title": "30 mins to to Oxford Street, Excel London",
+        "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star": 4.2,
+        "price": "£38 / night",
+        "total": "£160 total",
+        "long": -0.150464,
+        "lat": 51.579245
+    },
+
+    {
+        "img": "https://www.expatkings.com/wp-content/uploads/2018/10/Airbnb-rental-tips.-Hostmaker-1-620x349.jpg",
+        "Location": "Private room in center of London",
+        "title": "Stay at this spacious Johnson House",
+        "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star": 4.5,
+        "price": "£42 / night",
+        "total": "£180 total",
+        "long": -0.005754,
+        "lat": 51.45384
+    },
+
+    {
+        "img": "https://static.trip101.com/paragraph_media/pictures/001/676/061/large/969ae4bb-efd1-4fb9-a4e3-5cb3316dd3c9.jpg?1562227937",
+        "Location": "Private room in center of London",
+        "title": "Hollywood Studio Apartments",
+        "description": "4 guest · 4 bedroom · 4 bed · 2 bathrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star": 4.9,
+        "price": "£55 / night",
+        "total": "£160 total",
+        "long": -0.12858,
+        "lat": 51.47996
+    }
+]
