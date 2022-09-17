@@ -46,29 +46,5 @@
         "total": "£160 total",
         "long": -0.150464,
         "lat": 51.579245
-    },
-
-    {
-        "img": "https://iili.io/iAYUBe.jpg",
-        "Location": "Private room in center of London",
-        "title": "Stay at this spacious Johnson House",
-        "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bathrooms · Wifi · Kitchen · Free parking · Washing Machine",
-        "star": 4.5,
-        "price": "£42 / night",
-        "total": "£180 total",
-        "long": -0.005754,
-        "lat": 51.45384
-    },
-
-    {
-        "img": "https://iili.io/iAadpp.webp",
-        "Location": "Private room in center of London",
-        "title": "Hollywood Studio Apartments",
-        "description": "4 guest · 4 bedroom · 4 bed · 2 bathrooms · Wifi · Kitchen · Free parking · Washing Machine",
-        "star": 4.9,
-        "price": "£55 / night",
-        "total": "£160 total",
-        "long": -0.12858,
-        "lat": 51.47996
     }
 ]
